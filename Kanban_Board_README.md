@@ -52,7 +52,7 @@ This project is a Kanban Board Application built using React.js. It allows users
 ## How to Run Locally
 
 ```bash
-git clone https://github.com/your-username/kanban-board.git
+git clone [https://github.com/your-username/kanban-board.git](https://github.com/labeshgarg/Kanban-Board)
 cd kanban-board
 npm install
 npm start
